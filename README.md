@@ -9,6 +9,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Idea 1: Fantasy Football Trade Calculator</b>
+- <b>Idea 2: AlgoTrader - Open Trading Platform</b>
+  - Backend: Python (FastAPI or Flask), Pandas/Numpy for data handling, SQL or DuckDB for storage
+  - Frontend: React (with Chart.js, D3.js, or TradingView widget for visualization)
+  - Exchange API: Start with a public sandbox (Binance, Alpaca, IEX Cloud) or mock exchange for testing
+  - Live/Backtest Mode Switch: Easy toggle between simulated and live trading
+  - Dockerized Deployment: For easy setup
+
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
