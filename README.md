@@ -6,18 +6,20 @@
 - <b>Opportunities to apply my programming skills to build impactful, scalable solutions</b>
 - <b>Roles that value problem-solving, accountability, and project ownership from concept to deployment</b>
 - <b>A collaborative team environment where I can grow as a developer and contribute to real-world products</b>
-
+ 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Idea 1: Fantasy Football Trade Calculator</b>
-- <b>Idea 2: OpenAlgoTrader - Algorithmic Trading Platform</b>
+- <b>OpenAlgoTrader - Algorithmic Trading Platform</b>
   - Backend: Python (FastAPI or Flask), Pandas/Numpy for data handling, SQL or DuckDB for storage
   - Frontend: React (with Chart.js, D3.js, or TradingView widget for visualization)
   - Exchange API: Start with a public sandbox (Binance, Alpaca, IEX Cloud) or mock exchange for testing
   - Live/Backtest Mode Switch: Easy toggle between simulated and live trading
   - Dockerized Deployment: For easy setup
-
+ 
 <!--
+
+- <b>Idea 1: Fantasy Football Trade Calculator</b>
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
