@@ -2,7 +2,7 @@
 
 <h2>👨‍💼 I'm currently seeking:</h2>
 
-- <b>Entry-level roles in software engineering, with a focus in full-stack development, AI/ML, and cybersecurity</b>
+- <b>Entry-level roles in software engineering, with a focus in full-stack development, AI/ML, and computer networks</b>
 - <b>Opportunities to apply my programming skills to build impactful, scalable solutions</b>
 - <b>Roles that value problem-solving, accountability, and project ownership from concept to deployment</b>
 - <b>A collaborative team environment where I can grow as a developer and contribute to real-world products</b>
